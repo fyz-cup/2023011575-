@@ -1,15 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 575993efc50f3689ad527d6f8af875eb_bbb8445e64e111f192bd5254007bceed
-    ReservedCode1: N+hsqXFnbzi20Mr7pLrXWlZmXm8hA390ZRzvb7SMZNZe18Qz2JpJzuv+nnU5E7aMMp6jfyeDlvxnk6NYQxi1xwvApfJ/ePZHS1qmQC9qHTP32m64+nG+ncZPDc4Q4R+EJILhz6udAUP2TTAT8Crla4+OfSgEjxE5H1eOM78xTOpoLFITy+b1lFnY1I8=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 575993efc50f3689ad527d6f8af875eb_bbb8445e64e111f192bd5254007bceed
-    ReservedCode2: N+hsqXFnbzi20Mr7pLrXWlZmXm8hA390ZRzvb7SMZNZe18Qz2JpJzuv+nnU5E7aMMp6jfyeDlvxnk6NYQxi1xwvApfJ/ePZHS1qmQC9qHTP32m64+nG+ncZPDc4Q4R+EJILhz6udAUP2TTAT8Crla4+OfSgEjxE5H1eOM78xTOpoLFITy+b1lFnY1I8=
----
-
-
 
 # 计算机网络知识体系交互式展示系统
 
@@ -59,19 +47,4 @@ python app.py
 
 ## 页面截图
 
-![截图1](D:\网络实习网页截图\屏幕截图 2026-06-10 232149.png)
-![截图2](D:\网络实习网页截图\屏幕截图 2026-06-10 232156.png)
-![截图3](D:\网络实习网页截图\屏幕截图 2026-06-10 232209.png)
-![截图4](D:\网络实习网页截图\屏幕截图 2026-06-10 232219.png)
-![截图5](D:\网络实习网页截图\屏幕截图 2026-06-10 232228.png)
-![截图6](D:\网络实习网页截图\屏幕截图 2026-06-10 232247.png)
-![截图7](D:\网络实习网页截图\屏幕截图 2026-06-10 232253.png)
-![截图8](D:\网络实习网页截图\屏幕截图 2026-06-10 232320.png)
-![截图9](D:\网络实习网页截图\屏幕截图 2026-06-10 232327.png)
-![截图10](D:\网络实习网页截图\屏幕截图 2026-06-10 232336.png)
-![截图11](D:\网络实习网页截图\屏幕截图 2026-06-10 232346.png)
-![截图12](D:\网络实习网页截图\屏幕截图 2026-06-10 232356.png)
-![截图13](D:\网络实习网页截图\屏幕截图 2026-06-10 232400.png)
-![截图14](D:\网络实习网页截图\屏幕截图 2026-06-10 232408.png)
-*（内容由AI生成，仅供参考）*
-*（内容由AI生成，仅供参考）*
+
